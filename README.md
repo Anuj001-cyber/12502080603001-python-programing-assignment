@@ -10,8 +10,8 @@
 
 | Field | Details |
 |------|--------|
-| 👤 Name | Om H Machhi |
-| 🆔 Enrollment No | 12502080603013 |
+| 👤 Name |Anuj P Rana|
+| 🆔 Enrollment No | 12502080603001 |
 | 🎓 Semester | 5th |
 | 📅 Academic Year | 2026-27 |
 
